@@ -6,7 +6,7 @@ name: Build and deploy JAR app to Azure Web App - calculatoronline
 on:
   push:
     branches:
-      "- master"
+      - master
   workflow_dispatch:
 
 jobs:
