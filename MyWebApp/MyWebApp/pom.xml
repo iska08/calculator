@@ -17,5 +17,6 @@
   </dependencies>
   <build>
     <finalName>MyWebApp</finalName>
+    <defaultGoal>install</defaultGoal>
   </build>
 </project>
